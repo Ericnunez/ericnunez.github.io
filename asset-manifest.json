@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/ericnunez.github.io/static/css/main.015935e0.chunk.css",
-    "main.js": "/ericnunez.github.io/static/js/main.4827a704.chunk.js",
-    "main.js.map": "/ericnunez.github.io/static/js/main.4827a704.chunk.js.map",
+    "main.js": "/ericnunez.github.io/static/js/main.f8b41e3e.chunk.js",
+    "main.js.map": "/ericnunez.github.io/static/js/main.f8b41e3e.chunk.js.map",
     "runtime-main.js": "/ericnunez.github.io/static/js/runtime-main.0712e2aa.js",
     "runtime-main.js.map": "/ericnunez.github.io/static/js/runtime-main.0712e2aa.js.map",
     "static/css/2.d9ad5f5c.chunk.css": "/ericnunez.github.io/static/css/2.d9ad5f5c.chunk.css",
-    "static/js/2.b987747e.chunk.js": "/ericnunez.github.io/static/js/2.b987747e.chunk.js",
-    "static/js/2.b987747e.chunk.js.map": "/ericnunez.github.io/static/js/2.b987747e.chunk.js.map",
+    "static/js/2.d448c52f.chunk.js": "/ericnunez.github.io/static/js/2.d448c52f.chunk.js",
+    "static/js/2.d448c52f.chunk.js.map": "/ericnunez.github.io/static/js/2.d448c52f.chunk.js.map",
     "index.html": "/ericnunez.github.io/index.html",
-    "precache-manifest.59dbac3f77ceceb129bb88a5306f6894.js": "/ericnunez.github.io/precache-manifest.59dbac3f77ceceb129bb88a5306f6894.js",
+    "precache-manifest.5cd0f2d4c209df1428f42f1efec488f1.js": "/ericnunez.github.io/precache-manifest.5cd0f2d4c209df1428f42f1efec488f1.js",
     "service-worker.js": "/ericnunez.github.io/service-worker.js",
     "static/css/2.d9ad5f5c.chunk.css.map": "/ericnunez.github.io/static/css/2.d9ad5f5c.chunk.css.map",
     "static/css/main.015935e0.chunk.css.map": "/ericnunez.github.io/static/css/main.015935e0.chunk.css.map",
-    "static/js/2.b987747e.chunk.js.LICENSE.txt": "/ericnunez.github.io/static/js/2.b987747e.chunk.js.LICENSE.txt",
+    "static/js/2.d448c52f.chunk.js.LICENSE.txt": "/ericnunez.github.io/static/js/2.d448c52f.chunk.js.LICENSE.txt",
     "static/media/calendar.png": "/ericnunez.github.io/static/media/calendar.de7670f1.png",
     "static/media/colortrap.png": "/ericnunez.github.io/static/media/colortrap.0534a75c.png",
     "static/media/corona.png": "/ericnunez.github.io/static/media/corona.8bdfeecb.png",
@@ -26,8 +26,8 @@
   "entrypoints": [
     "static/js/runtime-main.0712e2aa.js",
     "static/css/2.d9ad5f5c.chunk.css",
-    "static/js/2.b987747e.chunk.js",
+    "static/js/2.d448c52f.chunk.js",
     "static/css/main.015935e0.chunk.css",
-    "static/js/main.4827a704.chunk.js"
+    "static/js/main.f8b41e3e.chunk.js"
   ]
 }
